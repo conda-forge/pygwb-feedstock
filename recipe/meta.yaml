@@ -13,7 +13,7 @@ source:
     - lalsuite-requirements.patch
 
 build:
-  skip: true  # [win or py>=312]
+  skip: true  # [win or py>=313]
   script: {{ PYTHON }} -m pip install . -vv
   number: 2
 
