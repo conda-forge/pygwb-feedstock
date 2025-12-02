@@ -198,4 +198,5 @@ Feedstock Maintainers
 =====================
 
 * [@a-renzini](https://github.com/a-renzini/)
+* [@duncanmmacleod](https://github.com/duncanmmacleod/)
 
